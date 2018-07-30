@@ -6,6 +6,19 @@ body{
 a{
 	color: lightblue;
 }
-.vegetarian{color: green}
+.vegetarian{color: green;}
 .notvegetarian{color: red;}
-#wierd{color: orange;}
+#weird{color: orange;}
+.title{font-family:  "Times New Roman"; color:red; position: absolute;left: 100px;}
+.content{color: white;
+position: absolute;
+top: 047px;
+left: 100px;}
+.sidebar{position: absolute;
+top:0px;
+left:00px;
+width: 100px;
+height: 100%;
+background-color: black;}
+.container{position: relative;
+height: 1000px;}
