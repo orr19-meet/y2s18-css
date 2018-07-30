@@ -1,1 +1,11 @@
+body{
+	background-color: blue;
+	color: white;
 
+}
+a{
+	color: lightblue;
+}
+.vegetarian{color: green}
+.notvegetarian{color: red;}
+#wierd{color: orange;}
